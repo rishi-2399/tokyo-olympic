@@ -1,9 +1,11 @@
 
-<h3 align="centre">Query Results from Azure Synapse Studio</h3>
+<img align="left" alt="Coding" width="48%" src="https://github.com/rishi-2399/tokyo-olympic/blob/f1b3cfb9bdac243f609dd9ea58a44e3c9eaa489e/3.jpeg">
+<img align="right" alt="Coding" width="48%" src="https://github.com/rishi-2399/tokyo-olympic/blob/f1b3cfb9bdac243f609dd9ea58a44e3c9eaa489e/4.jpeg">
 
 
-* SELECT Country, COUNT(*) AS participants_count FROM athletes GROUP BY Country;
 
+
+<h3>Query Results</h3>
 <img align="centre" alt="Coding" width="400" src="https://github.com/rishi-2399/tokyo-olympic/blob/22f7969202ea91e9c460a1af7db6545bd317c8f2/screenshots/athletes_pic.png">
 
 * SELECT Country, COUNT(*) AS coaches_count FROM coaches GROUP BY Country;
